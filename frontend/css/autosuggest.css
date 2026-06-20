@@ -1,0 +1,25 @@
+#being{
+    color: rgb(127, 12, 169);
+}
+
+.heading{
+    text-align: center;
+}
+#topbar{
+    text-align: right;
+}
+.gear{
+   float:left;
+}
+#searchbar{
+ 
+    border-radius: 20px;
+     padding: 10px;
+    width: 250px;
+
+}
+/* .lens{
+    position: relative;
+    top: 20px;
+    left: 10px;
+} */
